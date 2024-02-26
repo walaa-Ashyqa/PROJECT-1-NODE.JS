@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "firstName": "Wala",
+    "lastName": "Ashyqa",
+    "age": "26",
+    "city": "Nablus"
+  },
+  {
+    "id": "3",
+    "firstName": "Ibrahim",
+    "lastName": "Ali",
+    "age": "25",
+    "city": "Nablus"
+  },
+  {
+    "id": "5",
+    "firstName": "Salah",
+    "lastName": "Jomma'",
+    "age": "32",
+    "city": "Tubas"
+  },
+  {
+    "id": "7",
+    "firstName": "Omer",
+    "lastName": "Mohmad",
+    "age": "24",
+    "city": "Nablus"
+  },
+  {
+    "id": "9",
+    "firstName": "Fatema",
+    "lastName": "Ahmad",
+    "age": "28",
+    "city": "Ramallah"
+  },
+  {
+    "id": "10",
+    "firstName": "Aya'",
+    "lastName": "Jamal",
+    "age": "27",
+    "city": "Ramallah"
+  }
+]
